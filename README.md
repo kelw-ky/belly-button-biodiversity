@@ -19,7 +19,7 @@ The first subject when entering the link is Subject #940 and when the Subject # 
 
 ***Subject # 940
 
-![chart](/static/images/chart.png)
+![charts](/static/images/charts.png)
 
 
 ***Subject # 962
