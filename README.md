@@ -8,9 +8,13 @@ Please [CLICK HERE](https://kelw-ky.github.io/belly-button-biodiversity) for the
 
 ### Belly Button Biodiversity Dashboard
 
-The interactive Dashboard will look like the following if it is open on the iPad Air. 
+The interactive Dashboard will look like the following if it is open on the iPad Air before any adjustments. 
 
 ![iPad_Air](/static/images/iPad_Air.png)
+
+After making some tweaks, the website in Surface Pro 7 will look like the following:  
+
+![surface_pro_7](/static/images/surface_pro_7.png)
 
 #### Bar Charts, Bubble Chart and Gauge Chart 
 
