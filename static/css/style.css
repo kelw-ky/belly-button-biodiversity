@@ -1,11 +1,11 @@
 body {
     
     color: #535151;
+    background-color: lavenderblush;
 }
 
 .jumbotron {
     background-image: url("../images/flask.png");
     background-size: 100% 100%;
-    background-color: lavenderblush;
     text-align: center;
 }
