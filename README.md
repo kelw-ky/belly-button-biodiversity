@@ -10,8 +10,19 @@ Please [CLICK HERE](https://kelw-ky.github.io/belly-button-biodiversity) for the
 
 The interactive Dashboard will look like the following if it is open on the iPad Air. 
 
-![Election_Results](/static/images/iPad_Air.png)
+![iPad_Air](/static/images/iPad_Air.png)
 
-####
+#### Bar Charts, Bubble Chart and Gauge Chart 
 
+The first subject when entering the link is Subject #940 and when the Subject # is changed (e.g to Subject #962), the charts will be updated to represent that information. 
+
+
+***Subject # 940
+
+![chart](/static/images/chart.png)
+
+
+***Subject # 962
+
+![962_chart](/static/images/962_chart.png)
 
