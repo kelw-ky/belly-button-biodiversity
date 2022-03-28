@@ -17,12 +17,12 @@ The interactive Dashboard will look like the following if it is open on the iPad
 The first subject when entering the link is Subject #940 and when the Subject # is changed (e.g to Subject #962), the charts will be updated to represent that information. 
 
 
-***Subject # 940
+***Subject # 940***
 
 ![charts](/static/images/charts.png)
 
 
-***Subject # 962
+***Subject # 962***
 
 ![962_chart](/static/images/962_chart.png)
 
